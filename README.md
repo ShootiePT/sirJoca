@@ -45,8 +45,9 @@ copies or substantial portions of the Software.
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
+![Screenshot 1](/.resources/Tumbnail.png)
+![Screenshot 2](/.resources/frontV1.jpg)
+![Screenshot 3](/.resources/gPlay.png)
 
 ## Credits
 
