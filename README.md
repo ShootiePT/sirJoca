@@ -6,7 +6,6 @@ We participated in CodeForAll's GameJam during week 6 of the Full-Stack programm
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -31,7 +30,7 @@ Feel free to suggest ideas for improving the project. Please note that we used t
 
 ## License
 
-Copyright (c) [2024] [SirJoca]
+Copyright (c) 2024 SirJoca
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -53,11 +52,11 @@ copies or substantial portions of the Software.
 
 This was a team project where we all worked towards a common goal: to enhance our programming skills.
 
-- [Contributor 1](https://github.com/sawsent)
-- [Contributor 2](https://github.com/ShootiePT)
-- [Contributor 3](https://github.com/RenataRMiranda)
-- [Contributor 4](https://github.com/Daniel-Carvalho1)
-- [Contributor 5](https://github.com/CarlosMinhos/)
+- [Vicente Figueiredo](https://github.com/sawsent)
+- [José Rocha](https://github.com/ShootiePT)
+- [Renata Miranda](https://github.com/RenataRMiranda)
+- [Daniel Carvalho](https://github.com/Daniel-Carvalho1)
+- [Carlos Minhós](https://github.com/CarlosMinhos/)
 
 ## Contact
 
